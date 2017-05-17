@@ -15,3 +15,6 @@ The application you build will have two input selectors that allow users to choo
 This assignment will require low level data manipulation, the primary goal is to understand the relationship between the server and ui comopnents of a Shiny application.
 
 To begin, either fork and clone this module or set an upstream and rebase to get this exercise onto your machine. Instructions are included on the server and ui files respectively of what steps you should take to complete the exercise. You should read through both but start with the steps in the ui file.
+
+
+Completer server file, started working on UI file
