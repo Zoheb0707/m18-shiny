@@ -1,8 +1,12 @@
 #INFO 201 M18 Exercise 5 Server
 
 #Require the following: shiny, HSUAR, dyplr, and ggplot2
-
-
+istall.packages('shiny')
+install.packages('HSAUR')
+library(shiny)
+library(HSAUR)
+library(dplyr)
+library(ggplot2)
 #Load the dataset 'womensrole' from the HSUAR package (same way you would load a built in dataset)
 
 
